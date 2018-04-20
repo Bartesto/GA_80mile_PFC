@@ -5,6 +5,9 @@ Bart Huntley
 
 -   [Introduction](#introduction)
 -   [Methods](#methods)
+    -   [AGDC data import](#agdc-data-import)
+    -   [Model PFC](#model-pfc)
+    -   [PFC layer outputs](#pfc-layer-outputs)
 
 Introduction
 ------------
