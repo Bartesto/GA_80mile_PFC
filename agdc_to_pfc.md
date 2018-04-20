@@ -3,6 +3,9 @@ AGDC NDVI to PFC
 Bart Huntley
 20 April, 2018
 
+-   [Introduction](#introduction)
+-   [Methods](#methods)
+
 Introduction
 ------------
 
@@ -153,7 +156,7 @@ agdc_4class <- reclassify(agdc_pfc_mskd, reclass_m)
 plot(agdc_4class, main = "AGDC 4-Class PFC Density")
 ```
 
-<img src="agdc_to_pfc_files/figure-markdown_github-ascii_identifiers/reclass_plot-1.png" width="50%" />
+<img src="agdc_to_pfc_files/figure-markdown_github-ascii_identifiers/reclass_plot-1.jpeg" width="50%" />
 
 If an export of the data is required the following can be run
 

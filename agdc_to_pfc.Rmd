@@ -2,7 +2,14 @@
 title: "AGDC NDVI to PFC"
 author: "Bart Huntley"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: html_document
+output: 
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+    dev: jpeg
+
 ---
 
 ```{r setup, include=FALSE}
